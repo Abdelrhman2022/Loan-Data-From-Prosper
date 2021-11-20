@@ -14,3 +14,7 @@ In exploring how the interest rate of a loan is affected by the loans Term (leng
 Exploratory Data Analysis is a good way to know the data using vivid and interesting visualizations. However, to make a final statement about the relationships among variables we need to conduct the statistical tests and build predictive models.
 
 # Resources
+* [Example Project](https://github.com/loeakaodas/dand_communicate_data_findings/tree/master/Example%20Project) from Udacity.
+* Prosper [data dictionary](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0)
+* seaborn documentation
+* [Geeks for Geeks]https://www.geeksforgeeks.org/)
