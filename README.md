@@ -17,4 +17,4 @@ Exploratory Data Analysis is a good way to know the data using vivid and interes
 * [Example Project](https://github.com/loeakaodas/dand_communicate_data_findings/tree/master/Example%20Project) from Udacity.
 * Prosper [data dictionary](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0)
 * seaborn documentation
-* [Geeks for Geeks]https://www.geeksforgeeks.org/)
+* [Geeks for Geeks](https://www.geeksforgeeks.org/)
