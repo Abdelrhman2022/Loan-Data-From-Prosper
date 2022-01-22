@@ -4,10 +4,7 @@
 ## Loan Data from Prosper Dataset
 This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
 
-<div align="center">
-      <a href="https://www.youtube.com/watch?v=0nC8g3s3tAo&ab_channel=Genius">
-      </a>
-    </div>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0nC8g3s3tAo/0.jpg)](https://www.youtube.com/watch?v=0nC8g3s3tAo)
 
 ## Summary of Findings
 During investing the ProsperRating (Alpha) and the ProsperScore as it relates to the BorrowerRate I could know an explanation for why the ProsperScore wasn't as highly correlated to the BorrowerRate. It is opposite the other credit risk features must use different criteria in coming up with its value
