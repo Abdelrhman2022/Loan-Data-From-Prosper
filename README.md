@@ -6,10 +6,6 @@ This data set contains 113,937 loans with 81 variables on each loan, including l
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=0nC8g3s3tAo&ab_channel=Genius">
-     <img 
-      src="https://www.youtube.com/watch?v=0nC8g3s3tAo&ab_channel=Genius" 
-      alt="Communicate Data Findings On "Loan Data from Prosper Dataset"" 
-      style="width:100%;">
       </a>
     </div>
 
